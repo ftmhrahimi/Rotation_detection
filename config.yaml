@@ -1,3 +1,3 @@
-image1_path: "path/to/image1.jpg"
-image2_path: "path/to/image2.jpg"
+image1_path: "Images/Correct_a.jpg"
+image2_path: "Images/Left_a_less.jpg"
 output_log: "output.log"
